@@ -3,4 +3,5 @@
 All about food recipes using
 - `headings in html`
 - `links in html`
-- `img i html`
+- `img in html`
+- `paragraphs in html`
